@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3881258.svg)](https://doi.org/10.5281/zenodo.3881258)
+
 # tee-hpc
 
 This repository provides artifacts and instructions to use them to perform experiments for the analysis of 
